@@ -29,4 +29,6 @@ This repository contains video links and screen shots to early prototype testing
 
 [Teeth Classification : Speech/Grammar Recognition](https://drive.google.com/open?id=0B01rMfZ-W8x0SlA0T0F1MjcySUU)
 
+[DICOM Models with Voice Commands: ](https://drive.google.com/open?id=0B01rMfZ-W8x0S19zUmQwQXJwdzg)
+
 
