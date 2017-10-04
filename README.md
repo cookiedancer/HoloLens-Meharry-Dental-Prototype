@@ -6,7 +6,7 @@ Over the past decade there has been a continuous debate over the needed change f
 
 This repository contains video links and screen shots to early prototype testing.  The videos demonstrate holographic sharing, speech and grammer recognition and manipulation. Assets were developed by converting DICOM data for display in the HoloLens. 
 
-## Screenshots
+## Screenshots:
 
 <table>
     <tr>
