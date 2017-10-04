@@ -45,7 +45,7 @@ This repository contains video links and screen shots to early prototype testing
 
 [Early Student Module Dev 2 ](https://drive.google.com/open?id=0B01rMfZ-W8x0UzRUV0dCY3djV1U)
 
-[Early Student Module Dev 3 ](https://drive.google.com/open?id=0B01rMfZ-W8x0UzRUV0dCY3djV1U)
+[Early Student Module Dev 3 ](https://drive.google.com/file/d/0B01rMfZ-W8x0U3RKSHl4TWJkZlk)
 
 
 
