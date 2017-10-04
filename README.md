@@ -27,6 +27,6 @@ This repository contains video links and screen shots to early prototype testing
 
 ## Video Demonstrations: 
 
-[Teeth Classificastion : Speech/Grammar Recognition](https://drive.google.com/open?id=0B01rMfZ-W8x0SlA0T0F1MjcySUU)
+[Teeth Classification : Speech/Grammar Recognition](https://drive.google.com/open?id=0B01rMfZ-W8x0SlA0T0F1MjcySUU)
 
 
