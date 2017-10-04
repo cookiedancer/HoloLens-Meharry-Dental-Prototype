@@ -33,10 +33,20 @@ This repository contains video links and screen shots to early prototype testing
 
 [DICOM Models in Bounding Boxes ](https://drive.google.com/open?id=0B01rMfZ-W8x0S19zUmQwQXJwdzg)
 
+[Vuforia HoloLens ](https://drive.google.com/open?id=0B01rMfZ-W8x0TDZwaDNDSlI5VEE)
+
 [Holographic Sharing Demo1 ](https://drive.google.com/open?id=0B01rMfZ-W8x0Y29UbE1oazBCX00)
 
 [Holographic Sharing Demo2 ](https://drive.google.com/open?id=0B01rMfZ-W8x0dmR3TlBtZW5CRzA)
 
 [Early bounding box demo ](https://drive.google.com/open?id=0B01rMfZ-W8x0d3JoTkpJUW9RZ1E)
+
+[Early Student Module Dev 1 ](https://drive.google.com/open?id=0B01rMfZ-W8x0eHcxTkJvcXhVTkE)
+
+[Early Student Module Dev 2 ](https://drive.google.com/open?id=0B01rMfZ-W8x0UzRUV0dCY3djV1U)
+
+[Early Student Module Dev 3 ](https://drive.google.com/open?id=0B01rMfZ-W8x0UzRUV0dCY3djV1U)
+
+
 
 
