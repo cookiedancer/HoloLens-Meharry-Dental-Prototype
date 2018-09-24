@@ -47,6 +47,12 @@ This repository contains video links and screen shots to early prototype testing
 
 [Early Student Module Dev 3 ](https://drive.google.com/file/d/0B01rMfZ-W8x0U3RKSHl4TWJkZlk)
 
+## Latest Work with HoloLens and iPad: 
+
+[Star Demo ](https://drive.google.com/open?id=1rJoCLqJg7X8ImhM1PFuG9EmZTXKbq28C)
+
+[Beating Heart Demo ](https://drive.google.com/open?id=1aYvj9kcOAZua0n1WsgqxiYWA_AfiNYXH)
+
 
 
 
