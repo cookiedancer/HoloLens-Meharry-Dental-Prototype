@@ -53,7 +53,7 @@ This repository contains video links and screen shots to early prototype testing
 
 [Beating Heart Demo ](https://drive.google.com/open?id=1aYvj9kcOAZua0n1WsgqxiYWA_AfiNYXH)
 
-[How to Provision iOS/Windows for SpectatorView ](https://drive.google.com/open?id=VXTJXLcTVzP9MI9jwCASfNOCkqbTcPW)
+[How to Provision iOS/Windows for SpectatorView ](https://drive.google.com/open?id=1_VXTJXLcTVzP9MI9jwCASfNOCkqbTcPW)
 
 
 
